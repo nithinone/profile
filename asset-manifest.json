@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.3222be4f.css",
+    "main.js": "/profile/static/js/main.cca64b16.js",
+    "static/media/netflix.png": "/profile/static/media/netflix.531f72f3875dd5aea960.png",
+    "static/media/resto.png": "/profile/static/media/resto.6bedd1aaebc617600d71.png",
+    "static/media/Nithin R - CV.pdf": "/profile/static/media/Nithin R - CV.4a7f4261c7686b2f7ddd.pdf",
+    "static/media/mysql.png": "/profile/static/media/mysql.e4919860e6192a07d0c8.png",
+    "static/media/portfolio.png": "/profile/static/media/portfolio.5ef7b4e7f5e3f083ce0b.png",
+    "static/media/simple-web.png": "/profile/static/media/simple-web.5ed8bab1201f63cd4caf.png",
+    "static/media/react.png": "/profile/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/profile/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/profile/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/profile/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/profile/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/profile/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/profile/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/logo.png": "/profile/static/media/logo.4589ab1487b3ff9ff667.png",
+    "index.html": "/profile/index.html",
+    "main.3222be4f.css.map": "/profile/static/css/main.3222be4f.css.map",
+    "main.cca64b16.js.map": "/profile/static/js/main.cca64b16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3222be4f.css",
+    "static/js/main.cca64b16.js"
+  ]
+}
